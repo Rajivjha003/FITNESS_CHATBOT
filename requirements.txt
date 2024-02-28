@@ -1,0 +1,10 @@
+ctransformers  # To load the quantise model
+sentence-transformers
+pinecone-client
+langchain-core==0.1.23
+langchain-community==0.0.19
+langchain==0.1.6
+flask
+python-dotenv
+-e .
+pypdf==4.0.2
